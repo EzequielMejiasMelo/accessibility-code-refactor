@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Changed to update header tag not class */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -188,6 +189,7 @@ p {
     font-size: 36px;
 }
 
+/* Changed to uopdate footer tag not class */
 footer {
     padding: 30px;
     clear: both;
@@ -195,6 +197,7 @@ footer {
     text-align: center;
 }
 
+/* Changed to h4 */
 footer h4 {
     font-size: 20px;
 }
